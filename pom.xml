@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cn.zx</groupId>
-	<artifactId>spring-boot-admin</artifactId>
+	<artifactId>spring-boot-admin-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-admin</name>
-	<description>spring-boot-admin</description>
+	<name>spring-boot-admin-server</name>
+	<description>spring-boot-admin-server</description>
 	<packaging>war</packaging>
 
 	<properties>
@@ -77,7 +77,7 @@
 			</plugin>
 
 		</plugins>
-		<finalName>spring-boot-admin</finalName>
+		<finalName>spring-boot-admin-server</finalName>
 	</build>
 
 </project>
